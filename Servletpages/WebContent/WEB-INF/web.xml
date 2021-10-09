@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd" id="WebApp_ID" version="4.0">
+  <display-name>Servletpages</display-name>
+  <servlet>
+    <servlet-name>serv</servlet-name>
+    <servlet-class>com.Demoserv.Mysrv</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>serv</servlet-name>
+    <url-pattern>/Mysrv</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>Srvl</servlet-name>
+    <servlet-class>com.Demoserv.Srv</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>Srvl</servlet-name>
+    <url-pattern>/Srv</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>imp</servlet-name>
+    <servlet-class>com.Demoserv.Impcls</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>imp</servlet-name>
+    <url-pattern>/Impcls</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+    <servlet-name>Regform</servlet-name>
+    <servlet-class>com.Demoserv.Registatiomform</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>Regform</servlet-name>
+    <url-pattern>/Registatiomform</url-pattern>
+  </servlet-mapping>
+  
+  
+</web-app>

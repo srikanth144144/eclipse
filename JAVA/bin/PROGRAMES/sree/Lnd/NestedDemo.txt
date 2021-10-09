@@ -1,0 +1,9 @@
+public class NestedDemo{
+public static void main(String args[]){
+int i= 38;
+if (i>47)
+System.out.println("i is less than 47");
+else 
+System.out.println("i is grater than 47");
+}
+}

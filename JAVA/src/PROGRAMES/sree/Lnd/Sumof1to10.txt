@@ -1,0 +1,13 @@
+public class Sumof1to10
+{
+public static void main(String args[])
+{
+int a =1;
+do
+{
+System.out.println("value of a"+a);
+a++;
+}
+while(a+=a++);
+}
+}

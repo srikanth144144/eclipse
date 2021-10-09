@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/SHOBHA/Documents/javax.mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHOBHA/Downloads/mailactivation.zip"/>
+	<classpathentry kind="lib" path="C:/Users/SHOBHA/Downloads/quartz-2.4.0-SNAPSHOT/lib/c3p0-0.9.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHOBHA/Downloads/quartz-2.4.0-SNAPSHOT/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHOBHA/Downloads/quartz-2.4.0-SNAPSHOT/lib/quartz-2.4.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHOBHA/Downloads/quartz-2.4.0-SNAPSHOT/lib/quartz-jobs-2.4.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHOBHA/Downloads/quartz-2.4.0-SNAPSHOT/lib/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHOBHA/Downloads/quartz-2.4.0-SNAPSHOT/lib/slf4j-log4j12-1.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHOBHA/Downloads/quartz-2.4.0-SNAPSHOT/examples/lib/gf.javax.transaction-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHOBHA/Downloads/quartz-2.4.0-SNAPSHOT/examples/lib/quartz-examples-2.4.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/JDBC/Sql_develop Windows/sqldeveloper/jdbc/lib/ojdbc8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHOBHA/Downloads/javax.mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHOBHA/Downloads/quartz-2.2.3/lib/c3p0-0.9.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHOBHA/Downloads/quartz-2.2.3/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHOBHA/Downloads/quartz-2.2.3/lib/quartz-2.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHOBHA/Downloads/quartz-2.2.3/lib/quartz-jobs-2.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHOBHA/Downloads/quartz-2.2.3/lib/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHOBHA/Downloads/quartz-2.2.3/lib/slf4j-log4j12-1.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHOBHA/Downloads/quartz-2.2.3/examples/lib/gf.javax.transaction-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHOBHA/Downloads/quartz-2.2.3/examples/lib/quartz-examples-2.2.3.jar"/>
+	<classpathentry kind="lib" path="E:/Jar files/javax.mail-1.6.2.jar"/>
+	<classpathentry kind="lib" path="E:/Jar files/quartz-2.2.3/lib/c3p0-0.9.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Jar files/quartz-2.2.3/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="E:/Jar files/quartz-2.2.3/lib/quartz-2.2.3.jar"/>
+	<classpathentry kind="lib" path="E:/Jar files/quartz-2.2.3/lib/quartz-jobs-2.2.3.jar"/>
+	<classpathentry kind="lib" path="E:/Jar files/quartz-2.2.3/lib/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="lib" path="E:/Jar files/quartz-2.2.3/lib/slf4j-log4j12-1.7.7.jar"/>
+	<classpathentry kind="lib" path="E:/Jar files/quartz-2.2.3/examples/lib/gf.javax.transaction-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Jar files/quartz-2.2.3/examples/lib/quartz-examples-2.2.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
